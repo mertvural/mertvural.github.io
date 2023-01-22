@@ -1,6 +1,6 @@
 # InsiderProject
 
-# <a href="">Click for demo</a>
+# <a href="mertvural.github.io/dist">Click for demo</a>
 
 This template should help get you started developing with Vue 3 in Vite.
 
