@@ -1,6 +1,6 @@
 # InsiderProject
 
-# Click for demo [Insider Case](https://mertvural.github.io/dist/).
+# Click for demo [Insider Test Case](https://mertvural.github.io/dist/).
 
 This template should help get you started developing with Vue 3 in Vite.
 
